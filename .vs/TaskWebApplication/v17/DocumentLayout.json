@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\varap\\source\\repos\\TaskWebApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CDF22B3B-AD77-4CBE-8F4A-53FC16126948}|TaskWebApplication\\TaskWebApplication.csproj|c:\\users\\varap\\source\\repos\\taskwebapplication\\taskwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF22B3B-AD77-4CBE-8F4A-53FC16126948}|TaskWebApplication\\TaskWebApplication.csproj|solutionrelative:taskwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF22B3B-AD77-4CBE-8F4A-53FC16126948}|TaskWebApplication\\TaskWebApplication.csproj|c:\\users\\varap\\source\\repos\\taskwebapplication\\taskwebapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDF22B3B-AD77-4CBE-8F4A-53FC16126948}|TaskWebApplication\\TaskWebApplication.csproj|solutionrelative:taskwebapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CDF22B3B-AD77-4CBE-8F4A-53FC16126948}|TaskWebApplication\\TaskWebApplication.csproj|c:\\users\\varap\\source\\repos\\taskwebapplication\\taskwebapplication\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDF22B3B-AD77-4CBE-8F4A-53FC16126948}|TaskWebApplication\\TaskWebApplication.csproj|solutionrelative:taskwebapplication\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +19,12 @@
       "RelativeMoniker": "D:0:0:{CDF22B3B-AD77-4CBE-8F4A-53FC16126948}|TaskWebApplication\\TaskWebApplication.csproj|solutionrelative:taskwebapplication\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDF22B3B-AD77-4CBE-8F4A-53FC16126948}|TaskWebApplication\\TaskWebApplication.csproj|c:\\users\\varap\\source\\repos\\taskwebapplication\\taskwebapplication\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDF22B3B-AD77-4CBE-8F4A-53FC16126948}|TaskWebApplication\\TaskWebApplication.csproj|solutionrelative:taskwebapplication\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CDF22B3B-AD77-4CBE-8F4A-53FC16126948}|TaskWebApplication\\TaskWebApplication.csproj|c:\\users\\varap\\source\\repos\\taskwebapplication\\taskwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CDF22B3B-AD77-4CBE-8F4A-53FC16126948}|TaskWebApplication\\TaskWebApplication.csproj|solutionrelative:taskwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDF22B3B-AD77-4CBE-8F4A-53FC16126948}|TaskWebApplication\\TaskWebApplication.csproj|c:\\users\\varap\\source\\repos\\taskwebapplication\\taskwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDF22B3B-AD77-4CBE-8F4A-53FC16126948}|TaskWebApplication\\TaskWebApplication.csproj|solutionrelative:taskwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDF22B3B-AD77-4CBE-8F4A-53FC16126948}|TaskWebApplication\\TaskWebApplication.csproj|c:\\users\\varap\\source\\repos\\taskwebapplication\\taskwebapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CDF22B3B-AD77-4CBE-8F4A-53FC16126948}|TaskWebApplication\\TaskWebApplication.csproj|solutionrelative:taskwebapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CDF22B3B-AD77-4CBE-8F4A-53FC16126948}|TaskWebApplication\\TaskWebApplication.csproj|c:\\users\\varap\\source\\repos\\taskwebapplication\\taskwebapplication\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF22B3B-AD77-4CBE-8F4A-53FC16126948}|TaskWebApplication\\TaskWebApplication.csproj|solutionrelative:taskwebapplication\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TasksController.cs",
               "DocumentMoniker": "C:\\Users\\varap\\source\\repos\\TaskWebApplication\\TaskWebApplication\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "TaskWebApplication\\Controllers\\TasksController.cs",
               "ToolTip": "C:\\Users\\varap\\source\\repos\\TaskWebApplication\\TaskWebApplication\\Controllers\\TasksController.cs",
               "RelativeToolTip": "TaskWebApplication\\Controllers\\TasksController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAkwDAAAAAfAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T09:24:25.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\varap\\source\\repos\\TaskWebApplication\\TaskWebApplication\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "TaskWebApplication\\Properties\\launchSettings.json",
@@ -68,20 +68,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\varap\\source\\repos\\TaskWebApplication\\TaskWebApplication\\Program.cs",
               "RelativeDocumentMoniker": "TaskWebApplication\\Program.cs",
               "ToolTip": "C:\\Users\\varap\\source\\repos\\TaskWebApplication\\TaskWebApplication\\Program.cs",
               "RelativeToolTip": "TaskWebApplication\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T09:17:43.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "DBContext.cs",
               "DocumentMoniker": "C:\\Users\\varap\\source\\repos\\TaskWebApplication\\TaskWebApplication\\Data\\DBContext.cs",
               "RelativeDocumentMoniker": "TaskWebApplication\\Data\\DBContext.cs",
@@ -89,34 +89,31 @@
               "RelativeToolTip": "TaskWebApplication\\Data\\DBContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T09:13:10.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T09:13:10.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\varap\\source\\repos\\TaskWebApplication\\TaskWebApplication\\appsettings.json",
               "RelativeDocumentMoniker": "TaskWebApplication\\appsettings.json",
               "ToolTip": "C:\\Users\\varap\\source\\repos\\TaskWebApplication\\TaskWebApplication\\appsettings.json",
               "RelativeToolTip": "TaskWebApplication\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-20T09:07:57.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T09:07:57.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Tasks.cs",
               "DocumentMoniker": "C:\\Users\\varap\\source\\repos\\TaskWebApplication\\TaskWebApplication\\Models\\Tasks.cs",
               "RelativeDocumentMoniker": "TaskWebApplication\\Models\\Tasks.cs",
               "ToolTip": "C:\\Users\\varap\\source\\repos\\TaskWebApplication\\TaskWebApplication\\Models\\Tasks.cs",
               "RelativeToolTip": "TaskWebApplication\\Models\\Tasks.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T09:00:33.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T09:00:33.209Z"
             }
           ]
         }
