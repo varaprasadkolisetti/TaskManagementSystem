@@ -85,3 +85,5 @@ C:\Users\varap\source\repos\TaskWebApplication\TaskWebApplication\obj\Debug\net6
 C:\Users\varap\source\repos\TaskWebApplication\TaskWebApplication\obj\Debug\net6.0\TaskWebApplication.pdb
 C:\Users\varap\source\repos\TaskWebApplication\TaskWebApplication\obj\Debug\net6.0\TaskWebApplication.genruntimeconfig.cache
 C:\Users\varap\source\repos\TaskWebApplication\TaskWebApplication\obj\Debug\net6.0\ref\TaskWebApplication.dll
+C:\Users\varap\source\repos\TaskWebApplication\TaskWebApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\varap\source\repos\TaskWebApplication\TaskWebApplication\obj\Debug\net6.0\TaskWebApplication.sourcelink.json

@@ -1,5 +1,4 @@
-﻿using Microsoft.OpenApi.Validations;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace TaskWebApplication.Models
 {

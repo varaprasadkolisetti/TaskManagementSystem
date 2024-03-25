@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using TaskWebApplication.Data;
 using TaskWebApplication.Models;
 
@@ -14,7 +15,8 @@ namespace TaskWebApplication.Controllers
         {
             _dbContext = dbContext;
         }
-
+        
+        [Authorize]
         [HttpGet]
         public IActionResult GetAllTask(string ? sortBy , DateTime? filterByDoj)
         {
@@ -51,6 +53,7 @@ namespace TaskWebApplication.Controllers
             return Ok(getTask);
         }
 
+        [Authorize]
         [HttpPost]
         public IActionResult CreateTask([FromBody] Tasks task)
         {
